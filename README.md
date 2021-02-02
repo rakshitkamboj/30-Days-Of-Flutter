@@ -16,3 +16,10 @@ Things i worked upon:<br>
 2.Learnt about Synchronous and Asynchronous.<br>
 3.Learnt how to extract the location of user who is using the application.<br>
 4.Geolocator-A Flutter geolocation plugin which provides easy access to platform specific location services.<br>
+
+# Day2✔
+Continued working on weather application<br>
+Concept i learnt are as follows:<br>
+1. Learned how to handle exceptions in dart.<br>
+2. Implemented try & catch method in project.<br>
+3. Successfull extracted the user location and stored that in the form of latitude & longitude.<br>
