@@ -23,3 +23,10 @@ Concept i learnt are as follows:<br>
 1. Learned how to handle exceptions in dart.<br>
 2. Implemented try & catch method in project.<br>
 3. Successfull extracted the user location and stored that in the form of latitude & longitude.<br>
+
+# Day3✔
+Completed taskd for today:-<br>
+1. Learnt about API(Application Programming Interface)
+2. Feteched data from openweather servies through interacting with api's
+3. Got JSON(JavaScript Object Notation) formatted responses.
+4. Decoded JSON to get value from API responses.
