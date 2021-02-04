@@ -25,8 +25,13 @@ Concept i learnt are as follows:<br>
 3. Successfull extracted the user location and stored that in the form of latitude & longitude.<br>
 
 # Day3✔
-Completed taskd for today:-<br>
+Completed tasks for today:-<br>
 1. Learnt about API(Application Programming Interface)
-2. Feteched data from openweather servies through interacting with api's
+2. Feteched data from openweather servies through interacting with sample api.
 3. Got JSON(JavaScript Object Notation) formatted responses.
 4. Decoded JSON to get value from API responses.
+
+# Day4✔
+Concepts learnt today are as following:-<br>
+1. Learnt how to get actual live weather data of current location of the user.
+2. added a spinner between loading and location screen to improve the transition.
