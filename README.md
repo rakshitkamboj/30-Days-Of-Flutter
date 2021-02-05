@@ -35,3 +35,9 @@ Completed tasks for today:-<br>
 Concepts learnt today are as following:-<br>
 1. Learnt how to get actual live weather data of current location of the user.
 2. added a spinner between loading and location screen to improve the transition.
+
+# Day5✔
+Tasks completed:-<br>
+1. passes data to state object
+2. extrated live data and updated it to ui of the application.
+3. Added conditions and messages to the application.
