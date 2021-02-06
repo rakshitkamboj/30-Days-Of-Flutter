@@ -41,3 +41,11 @@ Tasks completed:-<br>
 1. passes data to state object
 2. extrated live data and updated it to ui of the application.
 3. Added conditions and messages to the application.
+
+# Day6✔
+Completed tasks for today:-<br>
+1. added a city_screen in which user can input city name and can get its weather.
+2. refractored the code.
+3. Added a current location button in location_screen .
+4. Added a Textfield in city_screen and extracted user inputs.
+
