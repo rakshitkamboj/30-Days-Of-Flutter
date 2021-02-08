@@ -6,7 +6,7 @@ The Main aim of this Repository is to keep a track on my progress of flutter for
   
 ## What i will be learning in these 30days?
 I will be developing following Flutter application :-
-1. Clima - a weather application .
+1. Clima - a weather application .https://github.com/rakshitkamboj/Clima-Flutter
 2. FlashChat - a secured chat application .
 
 # Day1✔
@@ -64,3 +64,9 @@ And i have learnt so many interesting concepts of flutter throughtout my journey
 10. How to use the Geolocator package to get live location data for both iOS and Android.
 11. How to use the TextField Widget to take user input.
 
+# Day8✔
+Started working with my new project of 30days journey which is Flashchat (a messaging app).<br>
+This app will allow users to group chat with the feature of login/register and this app will be powered using firebase.
+Task completed:
+1. Successfully setuped the project on my system.
+2. Created a new welcome_screen and added a Log In and Resgister button in it.
