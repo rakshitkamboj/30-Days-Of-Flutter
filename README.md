@@ -73,9 +73,9 @@ Tasks completed:
 
 # Day9✔
 Tasks completed:
-1. added routes to the application .
-  a. welcome_screen
-  b. login_screen
-  c. register_screen 
-  d. chat_screen
+1. added routes to the application .<br>
+  a. welcome_screen<br>
+  b. login_screen<br>
+  c. register_screen <br>
+  d. chat_screen<br>
 2. learnt about static keyword and use of it in flutter.
