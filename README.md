@@ -67,6 +67,15 @@ And i have learnt so many interesting concepts of flutter throughtout my journey
 # Day8✔
 Started working with my new project of 30days journey which is Flashchat (a messaging app).<br>
 This app will allow users to group chat with the feature of login/register and this app will be powered using firebase.
-Task completed:
+Tasks completed:
 1. Successfully setuped the project on my system.
 2. Created a new welcome_screen and added a Log In and Resgister button in it.
+
+# Day9✔
+Tasks completed:
+1. added routes to the application .
+  a. welcome_screen
+  b. login_screen
+  c. register_screen 
+  d. chat_screen
+2. learnt about static keyword and use of it in flutter.
