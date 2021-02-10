@@ -79,3 +79,8 @@ Tasks completed:
   c. register_screen <br>
   d. chat_screen<br>
 2. learnt about static keyword and use of it in flutter.
+
+# Day10✔
+Tasks completed:
+1. Refactored Routes with Static const.
+2. Created a login_screen and added textfields for emailid and password.
