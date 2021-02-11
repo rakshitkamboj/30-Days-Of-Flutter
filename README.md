@@ -84,3 +84,8 @@ Tasks completed:
 Tasks completed:
 1. Refactored Routes with Static const.
 2. Created a login_screen and added textfields for emailid and password.
+
+# Day11✔
+Tasks completed:
+1. Created a registration_screen for new user.
+2. registration screen will require users email address and password.
