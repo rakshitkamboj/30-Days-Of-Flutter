@@ -89,3 +89,8 @@ Tasks completed:
 Tasks completed:
 1. Created a registration_screen for new user.
 2. registration screen will require users email address and password.
+
+# Day12✔
+Completed Tasks for today:-<br>
+1. Added a new chat_screen.
+2. Learnt about Hero animation and successfully implemented that on project logo.
