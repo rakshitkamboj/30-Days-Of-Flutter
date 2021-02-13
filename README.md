@@ -94,3 +94,12 @@ Tasks completed:
 Completed Tasks for today:-<br>
 1. Added a new chat_screen.
 2. Learnt about Hero animation and successfully implemented that on project logo.
+
+# Day13✔
+Tasks completed:<br>
+1. Learnt alot about animations which includes:<br>
+  a. Hero Animations<br>
+  b. Animation Controller<br>
+  c. Curved Animations<br>
+  d. ColorTween Animation<br>
+2. Learnt about mixins(we can reuse class's code in multiple class hierarchies).
