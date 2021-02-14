@@ -103,3 +103,8 @@ Tasks completed:<br>
   c. Curved Animations<br>
   d. ColorTween Animation<br>
 2. Learnt about mixins(we can reuse class's code in multiple class hierarchies).
+
+# Day14✔
+Today's Progress:<br>
+1. Added a Animated_text_kit in welcome_screen.
+2. Refactored the code and made it readable.
