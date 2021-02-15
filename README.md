@@ -108,3 +108,9 @@ Tasks completed:<br>
 Today's Progress:<br>
 1. Added a Animated_text_kit in welcome_screen.
 2. Refactored the code and made it readable.
+
+# Day15✔
+Completed tasks for today:<br>
+1. Refactored the code and extracted the rounded_button and added constant files to make code small and accurate.
+2. Learnt about firebase and started Flash_Chat project on it.
+3. Setuped the firebase in local environment.
