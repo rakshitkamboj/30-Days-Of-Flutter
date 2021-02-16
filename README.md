@@ -114,3 +114,9 @@ Completed tasks for today:<br>
 1. Refactored the code and extracted the rounded_button and added constant files to make code small and accurate.
 2. Learnt about firebase and started Flash_Chat project on it.
 3. Setuped the firebase in local environment.
+
+# Day16✔
+today's progress:<br>
+1. Added the dependies required for functioning of cloud firebase.
+2. Successfully registred users with Firebase using FirebaseAuth.
+3. Extrated the email id of the users.
