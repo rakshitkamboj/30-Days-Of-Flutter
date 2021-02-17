@@ -120,3 +120,7 @@ today's progress:<br>
 1. Added the dependies required for functioning of cloud firebase.
 2. Successfully registred users with Firebase using FirebaseAuth.
 3. Extrated the email id of the users.
+
+# Day17
+1. Authenticated users with FirebaseAuth.
+2. Added a spinner while the Users waits to authenticate or register.
