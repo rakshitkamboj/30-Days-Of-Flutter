@@ -124,3 +124,7 @@ today's progress:<br>
 # Day17
 1. Authenticated users with FirebaseAuth.
 2. Added a spinner while the Users waits to authenticate or register.
+
+# Day18
+1. Learnt about how to Save data into Cloud Firestore.
+2. Refactored the code.
