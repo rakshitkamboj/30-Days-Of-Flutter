@@ -128,3 +128,8 @@ today's progress:<br>
 # Day18
 1. Learnt about how to Save data into Cloud Firestore.
 2. Refactored the code.
+
+# Day19✔
+today's progress:<br>
+1. Learnt how to listen for Data from Firebase using streams.
+2. Learnt about Streams in Dart.
