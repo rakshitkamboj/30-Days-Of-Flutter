@@ -133,3 +133,9 @@ today's progress:<br>
 today's progress:<br>
 1. Learnt how to listen for Data from Firebase using streams.
 2. Learnt about Streams in Dart.
+
+# Day20✔
+tasks completed:<br>
+1. Learnt how to turn Streams into Widget using the StreamBubbles.
+2. Added ListView to the chatscreen.
+3. Customized the UI and added chatBubble to the window.
