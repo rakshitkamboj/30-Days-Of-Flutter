@@ -7,7 +7,7 @@ The Main aim of this Repository is to keep a track on my progress of flutter for
 ## What i will be learning in these 30days?
 I will be developing following Flutter application :-
 1. Clima - a weather application .https://github.com/rakshitkamboj/Clima-Flutter
-2. FlashChat - a secured chat application .
+2. FlashChat - a secured chat application .https://github.com/rakshitkamboj/flash-chat-flutter
 
 # Day1✔
 Started Working on Clima project.<br>
@@ -139,3 +139,16 @@ tasks completed:<br>
 1. Learnt how to turn Streams into Widget using the StreamBubbles.
 2. Added ListView to the chatscreen.
 3. Customized the UI and added chatBubble to the window.
+
+# Day21✔
+Successfully completed flash_chat application 😄.<br>
+Learnt a lot of new stuff throughout the process.<br>
+Flutter concepts that I learnt are as follows:<br>
+- How to incorporate Firebase into your Flutter projects.
+- How to use Firebase authentication to register and sign in users.
+- How to create beautiful animations using the Flutter Hero widget.
+- How to create custom aniamtions using Flutter's animation controller. 
+- Learn all about mixins and how they differ from superclasses.
+- Learn about Streams and how they work.
+- Learn to use ListViews to build scrolling views.
+- How to use Firebase Cloud Firestore to store and retrieve data on the fly.
