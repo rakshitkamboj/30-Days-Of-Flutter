@@ -152,3 +152,12 @@ Flutter concepts that I learnt are as follows:<br>
 - Learn about Streams and how they work.
 - Learn to use ListViews to build scrolling views.
 - How to use Firebase Cloud Firestore to store and retrieve data on the fly.
+
+# Day22✔
+Started working on new application called todoey which will allow users to manage their daily tasks.
+Goal of developing this application is to learn deeply about flutter state management concepts.
+todays progress:<br>
+1. Setuped the project on my local machine,
+2. Started working on UI of the app.
+3. Created a task_screen and added widgets to it.
+
