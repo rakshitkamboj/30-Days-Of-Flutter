@@ -8,6 +8,7 @@ The Main aim of this Repository is to keep a track on my progress of flutter for
 I will be developing following Flutter application :-
 1. Clima - a weather application .https://github.com/rakshitkamboj/Clima-Flutter
 2. FlashChat - a secured chat application .https://github.com/rakshitkamboj/flash-chat-flutter
+3. todoey - This app allows users to manage their daily tasks. 
 
 # Day1✔
 Started Working on Clima project.<br>
@@ -161,3 +162,8 @@ todays progress:<br>
 2. Started working on UI of the app.
 3. Created a task_screen and added widgets to it.
 
+# Day23✔
+tasks completed:<br>
+1. Added listView and ListTile to the BottomContainer.
+2. Added a ModelBottomSheet to take inputs form user.
+3. Completed the UI of ModelBottomSheet.
