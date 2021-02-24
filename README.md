@@ -167,3 +167,9 @@ tasks completed:<br>
 1. Added listView and ListTile to the BottomContainer.
 2. Added a ModelBottomSheet to take inputs form user.
 3. Completed the UI of ModelBottomSheet.
+
+# Day24✔
+today's Progress:<br>
+1. Learnt about what is State in flutter and how to manage it.
+2. Learnt about how do callbacks work in dart.
+3. Added functionality to the check and connected it with the Listtile. 
