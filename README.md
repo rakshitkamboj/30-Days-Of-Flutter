@@ -173,3 +173,9 @@ today's Progress:<br>
 1. Learnt about what is State in flutter and how to manage it.
 2. Learnt about how do callbacks work in dart.
 3. Added functionality to the check and connected it with the Listtile. 
+
+# Day25✔
+today's progress:<br>
+1. Learnt about ListView Builders in flutter.
+2. Refactored the code .
+3. Successfully able to store tasklist in an array.
