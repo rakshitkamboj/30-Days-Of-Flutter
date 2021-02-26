@@ -179,3 +179,8 @@ today's progress:<br>
 1. Learnt about ListView Builders in flutter.
 2. Refactored the code .
 3. Successfully able to store tasklist in an array.
+
+# Day26✔
+today's progress:<br>
+1. Leart how to Lift the stateUp in flutter.
+2. Refactored the code to globally access the Listtiles.
