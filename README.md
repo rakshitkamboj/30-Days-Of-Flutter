@@ -182,5 +182,9 @@ today's progress:<br>
 
 # Day26✔
 today's progress:<br>
-1. Leart how to Lift the stateUp in flutter.
+1. Learnt how to Lift the stateUp in flutter.
 2. Refactored the code to globally access the Listtiles.
+
+# Day27✔
+today's progress:<br>
+1. Learnt about Flutter App Architecture Patterns. 
